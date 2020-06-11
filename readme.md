@@ -1,4 +1,4 @@
-# https://wolfr.am/wss2018github
+# https://wolfr.am/wss2018github s2
 
 This is a sample student repository for the Wolfram Summer School 2018. You can clone or fork this repository to get started
 
